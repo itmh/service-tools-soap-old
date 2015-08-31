@@ -1,5 +1,5 @@
 {
-  "name": "itmh/service-tools-soap",
+  "name": "itmh/service-tools-soap-old",
   "description": "Wrapper around PHP SoapClient class",
   "type": "library",
   "require": {
